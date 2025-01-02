@@ -1,4 +1,11 @@
 # SmartDeliveryManagementSystem
+
+#Working
+working several modules in the project 
+one major problem is when deployed on render until the mongodb server is on locally it is not reflecting on the live version of the site.
+
+
+
 Project Overview
 The Smart Delivery Management System is a comprehensive web application designed to manage delivery operations efficiently. This system facilitates partner management, order processing, and real-time tracking while providing insightful dashboards to monitor performance metrics. It is built using Next.js for the frontend and Node.js with Express for the backend, supported by a MongoDB database.
 
